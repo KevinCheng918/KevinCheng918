@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9A00F7&background=000000&center=true&multiline=true&width=435&height=100&lines=Hi+there%F0%9F%91%8B;My+name+is+Kevin+Zheng;Welcome+to+my+README)](https://git.io/typing-svg)
 
 ### STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=KevinCheng918)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
 **KevinCheng918/KevinCheng918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
