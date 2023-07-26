@@ -47,7 +47,7 @@
 
 ### INFO
 - 📫 How to reach me: forever58520@gmail.com
-- 😄 Pronouns: 每日精進1% 每年365%成長
+- 😄 Pronouns: Daily improvement of 1%, results in a 365% growth each year.
 
 <!--
 **KevinCheng918/KevinCheng918** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
