@@ -39,11 +39,12 @@
   <a href="#"><img alt="Socket io" src="https://camo.githubusercontent.com/ff9922c13693f815c68154802aa9c5c459b18e8ee9edb81caf7fe9672fc05933/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536f636b65742e696f2d3031303130313f267374796c653d666f722d7468652d6261646765266c6f676f3d536f636b65742e696f266c6f676f436f6c6f723d7768697465" style="max-width: 80%;max-height: 10%;"></a>
 </p>
 
+<!--
 ### 🔭STATS
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCheng918&show_icons=true&theme=radical)
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCheng918&layout=compact)
-
+-->
 
 ### INFO
 - 📫 How to reach me: forever58520@gmail.com
