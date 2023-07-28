@@ -40,9 +40,9 @@
 </p>
 
 ### 🔭STATS
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinCheng918&show_icons=true&theme=radical)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinCheng918&layout=compact)
 
 
 ### INFO
